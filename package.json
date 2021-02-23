@@ -1,0 +1,19 @@
+{
+  "name": "whyscript",
+  "version": "1.0.0",
+  "description": "Why write bad code in javascript when you can write bad code in whyscript?",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zoeezo/whyscript.git"
+  },
+  "author": "Zoeezo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zoeezo/whyscript/issues"
+  },
+  "homepage": "https://github.com/Zoeezo/whyscript#readme"
+}
